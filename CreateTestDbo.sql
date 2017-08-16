@@ -8,6 +8,7 @@ GO
 USE TEST
 GO
 
+--Student create
 CREATE TABLE Student
 (
 	StudentID int PRIMARY KEY IDENTITY
